@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // 1.	Write a java program that tells us that Input number is odd or even?
 // HINT: use ternary operator (? :)
+// first change
 public class Ans1_OddEven {
    // 1.Write a java program that tells us that Input number is odd or even?
     // HINT: use ternary operator (? :)\
