@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /* 2.	Write a java program to input any year like (ex.2007) and
  find out if it is leap year or not? */
+// first line
 
 public class Ans2_LeapYr {
 
